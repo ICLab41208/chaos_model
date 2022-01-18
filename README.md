@@ -1,6 +1,7 @@
 # chaos_model
 
-1.安裝依賴件 
+
+1. 安裝依賴件 
 
 pip install scipy
 
